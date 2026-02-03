@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+#myForm {
+
+  background-color: black;
+  color: lightblue;
+  font-family: Helvetica / Arial;
+border-radius: 15px;
+  border-color: white;
+
+}
+

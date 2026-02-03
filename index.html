@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Devbox</title>
+    <meta charset="UTF-8" />
+            <link rel="stylesheet" href="style.css"> <!-- Link to external CSS -->
+
+  </head>
+ <body>
+    <form id="myForm">
+      <span id="top">
+    <h1>Enter weight lifted and Reps completed below:</h1>
+      </span>
+      <div>
+        <label for="bench"><h1>Bench Press:</h1> </label>
+        <input type="text" id="bench" name="bench" />
+        <label for="benchreps">Reps:</label>
+        <input type="text" id="benchreps" name="benchreps" />
+      </div>
+      <div>
+        <label for="squat"><h1>Squat:</h1></label>
+        <input type="text" id="squat" name="squat" />
+        <label for="squatreps">Reps:</label>
+        <input type="text" id="squatreps" name="squatreps" />
+      </div>
+      <div>
+        <label for="deadlift"><h1>Deadlift:</h1> </label>
+        <input type="text" id="deadlift" name="name" />
+        <label for="deadliftreps">Reps:</label>
+        <input type="text" id="deadliftreps" name="deadliftreps" />
+      </div>
+      <button type="submit" id="myButton">Get one rep max</button>
+      <p id="output"><h1></h1></p>
+     </form>
+  <script src="./index.mjs" type="module"></script>
+  </body>
+</html>
