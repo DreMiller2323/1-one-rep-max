@@ -1,0 +1,2 @@
+This is a one-rep-max calculator, this app gives an estimations on the users one rep max based off an old russian formula. This app will be updated in version 2 I will include a 5 week strength training program that automatically provides a plan to increase strength to a specific goal weight. 
+The app will make the user understand that in the gym strenght is in the long term not the short term. 
